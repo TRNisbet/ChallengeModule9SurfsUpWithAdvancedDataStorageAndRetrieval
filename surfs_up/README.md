@@ -10,18 +10,19 @@ You have some savings you're willing to invest, but we'll need some real investo
 
 He's extremely serious about this. He invested in a surf shop early in his career. However, he didn't ask for any weather analysis and that early venture was rained out of existence. W. Avy knows you've been learning how to properly analyze data and asks if you can run some analytics on a weather data set he has from the very island where you'd like to open your shop, the beautiful Awahoo." (from Module Section 9.0.4)
 
-" • Deliverable 1: Determine the Summary Statistics for June
-  • Deliverable 2: Determine the Summary Statistics for December
-  • Deliverable 3: A written report for the statistical analysis" (from Module Challenge Page)
+" 
+* Deliverable 1: Determine the Summary Statistics for June
+* Deliverable 2: Determine the Summary Statistics for December
+* Deliverable 3: A written report for the statistical analysis" (from Module Challenge Page)
 
 
 ### Results
 Screen shots of the data used in this section are below the written response.  The minimum temperature, maximum temperature and the variance of the mean temperature variance seen in the results is not as high as one would expect throughout the continental US.  
 
-• The mean temperature for December is 71.04° F compared to June at 74.94° F with a difference of 3.9° F
-• The minimum temperature for December is 56° F compared to June at 64° F with a difference of 8° F
-• The maximum temperature for December is 83° F compared to June at 85° F with a difference of 2° F
-• The number of days measured for December is 1517 compared to June at 1700 with a difference of 183 or 12.06%
+* The mean temperature for December is 71.04° F compared to June at 74.94° F with a difference of 3.9° F
+* The minimum temperature for December is 56° F compared to June at 64° F with a difference of 8° F
+* The maximum temperature for December is 83° F compared to June at 85° F with a difference of 2° F
+* The number of days measured for December is 1517 compared to June at 1700 with a difference of 183 or 12.06%
 
 ![img](images/june.jpg)
 
