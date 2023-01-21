@@ -10,8 +10,8 @@ You have some savings you're willing to invest, but we'll need some real investo
 
 He's extremely serious about this. He invested in a surf shop early in his career. However, he didn't ask for any weather analysis and that early venture was rained out of existence. W. Avy knows you've been learning how to properly analyze data and asks if you can run some analytics on a weather data set he has from the very island where you'd like to open your shop, the beautiful Awahoo." (from Module Section 9.0.4)
 
-" 
-* Deliverable 1: Determine the Summary Statistics for June
+ 
+* "Deliverable 1: Determine the Summary Statistics for June
 * Deliverable 2: Determine the Summary Statistics for December
 * Deliverable 3: A written report for the statistical analysis" (from Module Challenge Page)
 
